@@ -10,19 +10,27 @@ Passo 1: Acessando o Kali Linux
 ________________________________________
 Passo 2: Obtenha acesso root
 O SEToolkit exige privilégios de administrador.
+
 ┌──(aluno㉿kali)-[~]
+
 └─$ sudo su
+
 Digite a senha do administrador e pressione Enter.
  
 ________________________________________
 Passo 3: Inicie o SEToolkit
 Execute o comando abaixo para iniciar o SEToolkit:
+
 ┌──(root㉿kali)-[~]
+
 └─# setoolkit
+
 
 ...
 
+
 Do you agree to the terms of service [y/n]: y
+
 
 
 O menu inicial do SEToolkit será exibido.
